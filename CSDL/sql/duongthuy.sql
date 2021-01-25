@@ -1,0 +1,8 @@
+-- CREATE TABLE DVDuongThuy(
+-- 	MaDVDT VARCHAR(10) PRIMARY KEY,
+--     TrongThuy INT,
+--     FOREIGN KEY (MaDVDT) REFERENCES PhuongThuc(MaPT)
+-- );
+
+INSERT INTO DVDuongThuy
+VALUES ("DVDT1",1.5)

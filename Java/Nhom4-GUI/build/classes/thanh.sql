@@ -1,0 +1,4 @@
+CREATE TABLE KhachHang(
+    Ma VARCHAR(10) PRIMARY KEY,
+    Ten VARCHAR(20)
+);

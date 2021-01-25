@@ -1,0 +1,5 @@
+CREATE TABLE PhuongThuc(
+	MaPT VARCHAR(10) PRIMARY KEY,
+    Loai VARCHAR(20),
+    Gia INT
+);

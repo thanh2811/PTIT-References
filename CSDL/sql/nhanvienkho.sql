@@ -1,0 +1,12 @@
+-- CREATE TABLE NhanVienK(
+--     MaNVK VARCHAR(10) PRIMARY KEY,
+--     KhuVucPT VARCHAR(30),
+--     CaLV VARCHAR(30),
+--     FOREIGN KEY (MaNVK) REFERENCES NhanVien(MaNV)
+-- );
+INSERT INTO NhanVienk
+VALUES ("NV06","Kho 1","1-2");
+INSERT INTO NhanVienk
+VALUES ("NV10","Kho 1","1-2-3");
+INSERT INTO NhanVienk
+VALUES ("NV12","Kho 1","1-2");

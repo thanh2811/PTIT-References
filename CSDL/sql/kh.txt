@@ -1,0 +1,13 @@
+Ten	DiaChiPB	ChucNang
+CSKH	Đà Nẵng	Chăm sóc khách hàng
+CSKH	Hà Nội	Chăm sóc khách hàng
+CSKH	TP Hồ Chí Minh	Chăm sóc khách hàng
+Kho	Đà Nẵng	Quản lý hàng hóa
+Kho	Hà Nội	Quản lý hàng hóa
+Kho	TP Hồ Chí Minh	Quản lý hàng hóa
+Marketing	Đà Nẵng	Kết nối thị trường
+Marketing	Hà Nội	Kết nối thị trường
+Marketing	TP Hồ Chí Minh	Kết nối thị trường
+Tài chính	Đà Nẵng	Quản lý ngân sách
+Tài chính	Hà Nội	Quản lý ngân sách
+Tài chính	TP Hồ Chí Minh	Quản lý ngân sách

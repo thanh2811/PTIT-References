@@ -1,0 +1,3 @@
+SELECT KH.MaKH, KH.Ten, BP.TenBP
+FROM KhachHang AS KH, BuuPham AS BP
+WHERE KH.MaKH = BP.MaKH;
